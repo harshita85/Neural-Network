@@ -1,0 +1,21 @@
+Employee ID,Name,Age,Department,Salary,Years at Company,Performance Score,Attrition
+E001,John Smith,34,Sales,72000,5,3.5,No
+E002,Alice Johnson,28,HR,65000,3,4.2,No
+E003,Robert Brown,45,IT,95000,10,4.7,No
+E004,Mary Davis,30,Finance,70000,4,3.8,Yes
+E005,James Wilson,38,Sales,78000,7,3.1,Yes
+E006,Linda Taylor,41,IT,85000,9,4.5,No
+E007,Michael Anderson,29,Marketing,62000,2,3.3,Yes
+E008,Jennifer Thomas,36,HR,69000,6,4.0,No
+E009,William Jackson,50,Finance,98000,15,4.8,No
+E010,Elizabeth White,27,Marketing,60000,1,2.9,Yes
+E011,David Harris,33,Sales,73000,5,3.7,No
+E012,Susan Martin,39,IT,88000,8,4.6,No
+E013,Charles Thompson,31,Finance,72000,4,3.2,Yes
+E014,Jessica Garcia,26,HR,61000,2,3.9,No
+E015,Thomas Martinez,44,IT,91000,12,4.4,No
+E016,Sarah Robinson,35,Marketing,67000,5,3.6,Yes
+E017,Daniel Clark,48,Sales,80000,11,4.0,No
+E018,Karen Rodriguez,29,Finance,68000,3,3.3,Yes
+E019,Nancy Lewis,32,HR,66000,4,4.1,No
+E020,Steven Lee,40,Marketing,71000,6,3.5,No
